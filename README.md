@@ -7,3 +7,5 @@ The modpack for The Ruined Kindoms
 4. Import previously created profile
 5. Select the modpack
 6. Play
+
+Ask CougotDev#4709 if you have any problems or suggestions  
